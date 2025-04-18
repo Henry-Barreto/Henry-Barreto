@@ -28,6 +28,3 @@
   ![Snake animation](https://github.com/Henry-Barreto/Henry-Barreto/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
-![Snake animation](https://github.com/Henry-Barreto/Henry-Barreto/blob/output/github-contribution-grid-snake.svg)
-
