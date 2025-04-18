@@ -25,3 +25,6 @@
   <a href="www.linkedin.com/in/henrique-barreto-620a34163" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <hr>
 </div>
+
+![Snake animation](https://github.com/Henry-Barreto/Henry-Barreto/blob/output/github-contribution-grid-snake.svg)
+
