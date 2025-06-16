@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=135&color=959CBD"/>
 ## Hello there 🛰️... I am Henrique and i live in Curitiba
  <div align="center">
    <img width="53%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Henry-Barreto&show_icons=true&theme=tokyonight&hide=issues&rank_icon=github" /> 
@@ -27,3 +28,4 @@
  
  
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=135&color=959CBD"/>
