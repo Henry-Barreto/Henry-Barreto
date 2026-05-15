@@ -6,7 +6,7 @@
     Henrique Barreto
   </h1>
   <p>
-    <strong> Desenvolvedor Web |  Frontend | Automação</strong><br/>
+    <strong> Desenvolvedor Web |  Frontend & Backend | Automação</strong><br/>
     <em>JavaScript • HTML • CSS • Python</em>
   </p>
   
