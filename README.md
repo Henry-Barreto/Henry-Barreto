@@ -50,7 +50,7 @@ const henrique = {
 
 <hr/>
 
-## 📊 Estatísticas do GitHub
+##  Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henry-Barreto&show_icons=true&theme=tokyonight&hide=issues&rank_icon=github&hide_border=true" alt="GitHub stats" />
